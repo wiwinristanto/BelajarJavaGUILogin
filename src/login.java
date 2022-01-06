@@ -2,5 +2,10 @@ import javax.swing.*;
 
 public class login {
     private JPanel loginPanel;
-    private JPanel topPanel;
+    private JPasswordField pfPassword;
+    private JTextField tfUsername;
+    private JButton loginButton;
+    private JButton registerButton;
+
+
 }
