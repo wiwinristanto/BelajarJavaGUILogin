@@ -21,7 +21,8 @@
           <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Log In"/>
+          <font name="Liberation Mono" size="26" style="1"/>
+          <text value="Welcome"/>
         </properties>
       </component>
       <component id="8d7a4" class="javax.swing.JLabel">
